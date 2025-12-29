@@ -97,3 +97,4 @@ If you'd like, I can:
 - Add a license file (e.g., MIT) ✅
 - Add screenshots and a short demo GIF to the README ✅
 
+ENJOY!
