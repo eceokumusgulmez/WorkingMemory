@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 55b9b3ec3e42e481097623de36dc031c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sesKaynagi: {instanceID: 0}
+  - ballSes: {fileID: 8300000, guid: 2227e701035ed4f1fb82c74f846e0fe6, type: 3}
+  - catSes: {fileID: 8300000, guid: 536de0da6b2f14824a6cd8bbe47e1434, type: 3}
+  - crownSes: {fileID: 8300000, guid: 4706845afb514487f8084aeacbba5ae6, type: 3}
+  - dropSes: {fileID: 8300000, guid: 19c9890ac56334499a45bf61cad877f9, type: 3}
+  - ballSprite: {instanceID: 0}
+  - catSprite: {instanceID: 0}
+  - crownSprite: {instanceID: 0}
+  - dropSprite: {instanceID: 0}
+  - solKutuImage: {instanceID: 0}
+  - sagKutuImage: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  - finalPanel: {instanceID: 0}
+  - finalPuanText: {instanceID: 0}
+  - konsantrasyonSlider: {instanceID: 0}
+  - kirmiziPanel: {instanceID: 0}
+  - bipSesi: {instanceID: 0}
+  - yasakliGostergeImage: {instanceID: 0}
+  - loadingPaneli: {instanceID: 0}
+  - loadingBarImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
