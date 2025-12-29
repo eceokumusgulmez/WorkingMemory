@@ -1,0 +1,87 @@
+# Unity .gitignore
+# Recommended patterns for Unity projects
+# See: https://github.com/github/gitignore/blob/main/Unity.gitignore
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.swp
+*.swo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.pidb.meta
+*.booproj
+*.svd
+
+# Build results
+/[Bb]uild/
+/[Bb]uilds/
+/Build/
+
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/Obj/
+/Obj/**
+/MemoryCaptures/
+/MemoryCaptures/**
+
+# Crash reports
+crashlytics/
+.crash
+
+# Packed / generated files
+*.apk
+*.aab
+*.unitypackage
+
+# Visual Studio / MonoDevelop / Rider
+.vscode/
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Gradle (Android)
+.gradle/
+*.gradle
+
+# VS Code settings
+/.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Logs
+*.log
+Logs/
+
+# Asset meta files should be tracked (do not ignore .meta)
+# Uncomment to ignore large or generated asset bundles
+# /Assets/**/*.bundle
+
+# Lock files
+packages-lock.json
+
+# Misc
+*.class
+*.csc
+*.DS_Store
+
+# End
